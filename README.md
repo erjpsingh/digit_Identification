@@ -1,6 +1,6 @@
 # Digit Identification
 Hi folks, this repositiry has a simple approach towards solving challenge of Digit Idnetification.
-I have tried to implement a neural network to recognise didgits.
+I have tried to implement a neural network to recognise digits.
 ### Data Set 
 The data set used for this problem is from the popular MNIST data set. Developed by Yann LeCun, Corina Cortes and Christopher Burger for evaluating machine learning model on the handwritten digit classification problem. It is a widely used data set in the machine learning community. 
 ### Tools
